@@ -1,0 +1,20 @@
+{
+  "name": "Portal Compras",
+  "short_name": "Portal Compras",
+  "description": "Aplicativo para solicitação e aprovação de compras",
+  "icons": [
+    {
+      "src": "/ativosTest/mobile/static/img/icons/ICON-COMMOSCOPE.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ativosTest/mobile/static/img/icons/ICON-COMMOSCOPE.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "lang": "pt-BR"
+}
